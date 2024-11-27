@@ -1,3 +1,6 @@
 # Proyecto de JA y RP
-## Fase I
-Primero, se coloca un texto.
+## Objetivo
+Crear un chatbot que sólo responda hola.
+
+## Presupuesto
+10.000,00$ **(USD)**
